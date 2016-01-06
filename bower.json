@@ -1,0 +1,10 @@
+{
+	"name": "angular-animate-dist",
+	"main": [
+	  "angular-animate.js",
+	  "angular-animate.min.js"
+	],
+	"ignore": [
+		"package.json"
+	]
+}
